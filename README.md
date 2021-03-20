@@ -1,6 +1,8 @@
 # Millionaire_iOS
 “Who wants to be a millionaire” quiz game show
 
+visit a game preview - https://user-images.githubusercontent.com/70823359/111874919-9047d780-896d-11eb-8fe1-4dfac4bd9dc4.mov
+
 coded in the context of Object Oriented Programming
 
 A console based application must be developed to allow a user to play the game.
